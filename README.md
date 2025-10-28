@@ -63,6 +63,7 @@ plant-disease-detection-system/
 └── README.md              # Documentation
 
 
+
 💾 Installation
 git clone https://github.com/akshataundhekar23/plant-disease-detection-system.git
 cd plant-disease-detection-system
@@ -81,6 +82,7 @@ python app.py
 
 
 Then open your browser at http://localhost:8501 or the link shown in the terminal.
+
 
 
 🌱 Dataset & Model
@@ -110,6 +112,7 @@ Batch Size: 32
 ⚙️ Inference Time: <1s on CPU
 
 🖼️ Supports both upload and live capture
+
 
 
 👤 Contributor
